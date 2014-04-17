@@ -17,6 +17,8 @@ namespace WebApplication1.Controllers
         {
             ViewBag.Message = "Your application description page.";
 
+            String s = "abcd";
+
             return View();
         }
 
